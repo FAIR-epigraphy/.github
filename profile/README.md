@@ -3,7 +3,7 @@
 <img align="left" style="margin-right: 2%;" width="100" height="100" src="https://github.com/FAIR-epigraphy/home/blob/main/docs/FAIRlogo_canva_lighter.png" title="FAIR Epigraphy logo">
 
 FAIR Epigraphy aims to serve as a hub for digital epigraphers providing access to FAIR and linked open data for epigraphy.
-Our mission is to provide projects in digital epigraphy with high quality Linked Open Datasets, but also with sets of guidelines helping them to implement FAIR (*Findable* - *Accessible* - *Interoperable* - *Reusable*) data principlines within the epigraphic discipline.
+Our mission is to provide projects in digital epigraphy with high quality Linked Open Datasets, but also with sets of guidelines helping them to implement FAIR (*Findable* - *Accessible* - *Interoperable* - *Reusable*) data principles within the epigraphic discipline.
 The FAIR Epigraphy project will run for 36 months from 2022-2025, and is co-directed by Prof Marietta Horster (Mainz, Germany) and Prof Jonathan Prag (Oxford, UK).
 
 
