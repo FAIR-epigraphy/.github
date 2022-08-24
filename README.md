@@ -26,6 +26,7 @@ The FAIR Epigraphy project will run for 36 months from 2022-2025, and is co-dire
 
 * Jonathan Prag [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3819-8537), University of Oxford, jonathan.prag@merton.ox.ac.uk
 
+--- 
 
-## For more information, visit https://fair-epigraphy.github.io/home/
+**For more information, visit https://fair-epigraphy.github.io/home/**
 
