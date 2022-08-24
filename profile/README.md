@@ -7,20 +7,17 @@ Our mission is to provide projects in digital epigraphy with high quality Linked
 The FAIR Epigraphy project will run for 36 months from 2022-2025, and is co-directed by Prof Marietta Horster (Mainz, Germany) and Prof Jonathan Prag (Oxford, UK).
 
 
-## Funding
+### Funding
 
 FAIR Epigraphy is supported by the Arts and Humanities Research Council (AHRC) [grant number AH/W010682/1]; and the Deutsche Forschungsgemeinschaft (DFG) [grant number 468455971].
 
-## The team 🙋‍
+### The team 🙋‍
 
 * Imran Asif, [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1144-6265), University of Oxford, imran.asif@classics.ox.ac.uk
-
 * Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), Johannes Gutenberg University, petra.hermankova@uni-mainz.de, [@petrifiedvoices](https://github.com/petrifiedvoices)
-
 * Marietta Horster [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-1434-224X), Johannes Gutenberg University in Mainz, Corpus Inscriptionum Latinarum/BBAW, horster@uni.mainz.de
-
 * Jonathan Prag [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3819-8537), University of Oxford, jonathan.prag@merton.ox.ac.uk
 
---- 
+ 
 
-**For more information, visit https://fair-epigraphy.github.io/home/**
+### For more information, visit https://fair-epigraphy.github.io/home/
